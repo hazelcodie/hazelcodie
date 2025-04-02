@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
 <h3 align="center">A passionate frontend developer and UI and UX Designer. I was created to create.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazelcodie" alt="hazelcodie" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio using React.**
 
 - 🌱 I’m currently learning **React and NextJS**
