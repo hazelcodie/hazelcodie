@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
-<h3 align="center">A passionate frontend developer and UI and UX Designer. I was created to create.</h3>
+<h3 align="center">A passionate web developer and UI and UX Designer. I was created to create.</h3>
 
 - 🔭 I’m currently working on **my portfolio using React.**
 
