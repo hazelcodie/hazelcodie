@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and NextJS**
 
-- 💬 Ask me about **Laravel Framework and UI and UX design.**
+- 💬 Ask me about **Laravel Framework and UI/UX design.**
 
 - 📫 How to reach me **hazeldelda11@gmail.com**
 
