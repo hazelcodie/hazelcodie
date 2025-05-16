@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
 <h3 align="center">A passionate web developer and UI and UX Designer. Created to create.</h3>
 
-- 🔭 I’m currently working on **my portfolio using React.**
+- 🔭 I’m currently working on **Eccommerce website using React/NextJs/MongoDB/Prisma.**
 
 - 🌱 I’m currently learning **React and NextJS**
 
 - 💬 Ask me about **Laravel Framework and UI/UX design.**
 
-- 📫 How to reach me **hazeldelda11@gmail.com**
+- 📫 Reach me : **hazeldelda11@gmail.com**
 
 - ⚡ Fun fact **I love running and books.**
 
