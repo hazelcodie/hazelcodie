@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hazel</h1>
 <h3 align="center">Created to create.</h3>
 
-- 🔭 I’m currently working on **fun stuff (not work related hehe ) **
+- 🔭 I’m currently working on fun stuff (not work related hehe) 
 
-- 🌱 I’m currently learning **SQL and Power BI**
+- 🌱 I’m currently learning **SQL and Power BI** (help me pleaseeeee)
 
 - 💬 Ask me about Anything !!!!
 
