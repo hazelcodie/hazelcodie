@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL and Power BI**
 
-- 💬 Ask me about **Anything !!!! **
+- 💬 Ask me about Anything !!!!
 
 - 📫 Reach me @: **hazeldelda11@gmail.com**
 
