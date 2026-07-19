@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Eccommerce website using React/NextJs/MongoDB/Prisma.**
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **SQL and Power BI**
 
-- 💬 Ask me about **Laravel Framework and UI/UX design.**
+- 💬 Ask me about **Anything !!!! **
 
-- 📫 Reach me : **hazeldelda11@gmail.com**
+- 📫 Reach me @: **hazeldelda11@gmail.com**
 
-- ⚡ Fun fact **I love running and books.**
+- ⚡ Fun fact:  **I love running and books.**
 
 
 
